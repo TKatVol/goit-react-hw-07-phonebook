@@ -1,11 +1,5 @@
 import styled from "styled-components";
 
-export const StyledItem = styled.li`
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-`;
-
 export const StyledContact = styled.p`
     font-weight: 400;
     font-size: 16px;
